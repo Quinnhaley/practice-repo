@@ -1,2 +1,2 @@
 # practice-repo
-[I'm learning this on lynda.com](http://.lynda.com)
+[I'm learning this on lynda.com](http://www.lynda.com)
