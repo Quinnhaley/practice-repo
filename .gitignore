@@ -1,0 +1,24 @@
+# Exclude the .htaccess file
+.htaccess
+
+# Exclude any PSD/AT source
+*.psd
+*.ai
+
+# Exlcude the build prducts
+build/*
+*.[oa]
+
+# ExlcudeOS x folder attributes
+.OS_Store
+
+# Exlcude Text Files
+*.txt
+# Except read me
+!README.txt
+
+# Exlcude log files
+*.log
+
+# Exlcude fonts
+_fonts/
